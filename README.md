@@ -13,23 +13,7 @@ Campus Copilot is a responsive web application designed to help college students
 - 🔔 Real-time Reminders using Local Storage
 - 💬 Built-in Campus Assistant Chat (AI powered)
 - 📱 Mobile responsive and styled with Tailwind CSS
-- ⚙️ Built using Alpine.js and vanilla HTML/CSS/JS
-
----
-
-## 📸 Screenshots
-
-| Login Page | Dashboard |
-|------------|-----------|
-| <p align="center">
-  <img src="login.jpg" alt="Login Screenshot" width="600"/>()
-" alt="Login Screenshot" width="600"/>
-  <br />
-  <em>Figure: Campus Copilot Login Interface</em>
-</p>
-| ![Dashboard](./screenshots/dashboard.png) |
-
-
+- ⚙️ Built using Alpine.js and vanilla HTML/CSS
 
 ---
 
