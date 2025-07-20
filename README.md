@@ -22,7 +22,8 @@ Campus Copilot is a responsive web application designed to help college students
 | Login Page | Dashboard |
 |------------|-----------|
 | <p align="center">
-  <img src="login" alt="Login Screenshot" width="600"/>
+  <img src="![Uploading Login.jpg.png…]()
+" alt="Login Screenshot" width="600"/>
   <br />
   <em>Figure: Campus Copilot Login Interface</em>
 </p>
